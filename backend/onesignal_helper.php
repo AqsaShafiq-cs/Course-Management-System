@@ -9,8 +9,8 @@
  */
 
 // OneSignal Configuration
-define('ONESIGNAL_APP_ID', '384836b5-5495-4b82-8543-44c89468f73a');
-define('ONESIGNAL_REST_API_KEY', 'os_v2_app_hbednnkusvfyfbkditeji2hxhicej43osjhettnz6lzgp7ikbraat3nzi7uvwbnzmk75zvmh75p5ivyrjw7d7urceewouk7z7dta5za');
+define('ONESIGNAL_APP_ID', '');
+define('ONESIGNAL_REST_API_KEY', '');
 
 /**
  * Send push notification via OneSignal
